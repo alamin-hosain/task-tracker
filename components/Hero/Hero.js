@@ -21,7 +21,7 @@ const Hero = () => {
             </div>
             <div className='w-full flex justify-center mt-20 px-4 lg:px-0'>
                 <div className='shadow-xl rounded-xl hover:scale-110 transition-transform duration-300 ease-out cursor-pointer'>
-                    <Image className='rounded-xl' src='/../public/assets/task1.jpg' width={700} height={700} alt="Picture of the author" />
+                    <img className='rounded-xl' src='https://i.ibb.co/p4wD0kR/task1.jpg' width={700} height={700} alt="Picture of the author" />
                 </div>
             </div>
         </div >
